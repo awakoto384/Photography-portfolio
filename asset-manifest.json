@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Photography-portfolio/static/css/main.684de3ba.chunk.css",
-    "main.js": "/Photography-portfolio/static/js/main.2762bdf9.chunk.js",
-    "main.js.map": "/Photography-portfolio/static/js/main.2762bdf9.chunk.js.map",
+    "main.js": "/Photography-portfolio/static/js/main.22fdf175.chunk.js",
+    "main.js.map": "/Photography-portfolio/static/js/main.22fdf175.chunk.js.map",
     "runtime-main.js": "/Photography-portfolio/static/js/runtime-main.1661db25.js",
     "runtime-main.js.map": "/Photography-portfolio/static/js/runtime-main.1661db25.js.map",
     "static/css/2.95f25948.chunk.css": "/Photography-portfolio/static/css/2.95f25948.chunk.css",
@@ -15,14 +15,14 @@
     "static/css/main.684de3ba.chunk.css.map": "/Photography-portfolio/static/css/main.684de3ba.chunk.css.map",
     "static/js/2.33a1d65d.chunk.js.LICENSE.txt": "/Photography-portfolio/static/js/2.33a1d65d.chunk.js.LICENSE.txt",
     "static/media/pic.77ade3fc.png": "/Photography-portfolio/static/media/pic.77ade3fc.png",
-    "static/media/picc.81e14de4.png": "/Photography-portfolio/static/media/picc.81e14de4.png",
-    "static/media/piccc.16992dc6.png": "/Photography-portfolio/static/media/piccc.16992dc6.png"
+    "static/media/picc.1a223e7c.png": "/Photography-portfolio/static/media/picc.1a223e7c.png",
+    "static/media/piccc.81e14de4.png": "/Photography-portfolio/static/media/piccc.81e14de4.png"
   },
   "entrypoints": [
     "static/js/runtime-main.1661db25.js",
     "static/css/2.95f25948.chunk.css",
     "static/js/2.33a1d65d.chunk.js",
     "static/css/main.684de3ba.chunk.css",
-    "static/js/main.2762bdf9.chunk.js"
+    "static/js/main.22fdf175.chunk.js"
   ]
 }
